@@ -22,7 +22,7 @@ jobs:
 
       - name: Sphinx build
         run:  |
-          sphinx-build -b html source docs
+          sphinx-build source docs
 
       - name: Add generated autodocs to Git repo in the documentation branch
         run:  |
