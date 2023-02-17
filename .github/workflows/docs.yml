@@ -24,6 +24,10 @@ jobs:
         run:  |
           sphinx-build source docs
 
+      - name: Create .nojekyll file
+        run:  |
+          touch docs/.nojekyll
+
       - name: Add generated autodocs to Git repo in the documentation branch
         run:  |
           git config --global user.email "documentation-bot@basealt.ru"
