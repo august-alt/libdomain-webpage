@@ -11,6 +11,7 @@
    :caption: Содержание:
    
    project
+   license
 
 
 Содержание и таблицы
