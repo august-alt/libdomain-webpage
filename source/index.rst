@@ -3,16 +3,16 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Libdomain's documentation!
+Добро пожаловать на страницу документации библиотеки Libdomain!
 =====================================
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Содержание:
 
 
 
-Indices and tables
+Содержание и таблицы
 ==================
 
 * :ref:`genindex`
