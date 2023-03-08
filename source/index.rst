@@ -10,6 +10,7 @@
    :maxdepth: 2
    :caption: Содержание:
    
+   ci
    project
    license
 
