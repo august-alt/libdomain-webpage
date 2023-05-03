@@ -13,7 +13,5 @@
 Планируется интегрировать в средства администрирования, которые уже представлены на рынке и встроены в дистрибутивные решения ОС Альт:
 -------------------------------------
 * ADMC https://github.com/altlinux/admc
-* gpupdate https://github.com/altlinux/gpupdate
 * GPUI https://github.com/august-alt/gpui
-* admx-basealt https://github.com/altlinux/admx-basealt
 
